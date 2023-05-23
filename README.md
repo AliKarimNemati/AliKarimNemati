@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 My journey as a frontend developer started with a strong interest in the web and how it functions. Over time, I developed my skills in HTML, CSS, and JavaScript, and eventually discovered the power of Vue.js, Nuxt.js and Bootstrap for building modern web applications. I love working on projects that challenge me and allow me to push the boundaries of what is possible with these tools.<br><br>When I'm not coding, you can find me exploring new technologies, attending tech meetups or taking online courses. I believe that there is always something new to learn in this field, and I'm constantly striving to improve my skills and stay up-to-date with the latest trends.
 
